@@ -1,0 +1,4 @@
+
+nums = [5, 9, 1, 2, 7, 23]
+
+print(sorted(nums))
